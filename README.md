@@ -50,5 +50,5 @@ Afterwards I even created story tabs showing explaining each component use on th
 the rise in food groups, top 5 foods and ovearall total expenses in 2020. 
 This is useful for explaination purposes to give a little walkthrough about the dashboard being presented. 
 
-I also included using and modifiying click function animations on certain compenents within the dashboard to use as a sort of drill down filter.
+I also included using and modifiying click function animations on certain components within the dashboard to use as a sort of drill down filter.
 
