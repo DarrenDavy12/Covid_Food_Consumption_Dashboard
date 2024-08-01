@@ -19,7 +19,7 @@ https://public.tableau.com/views/PersonalConsumptionExpendituresVisualization/Da
 
 So I downloaded the dataset from a site called Data World from the web as a .xlsx file.
 
-I Opened the .xlsx file in Microsoft Excel.
+I opened the .xlsx file in Microsoft Excel.
 
 Made sure to visually clean the dataset using find and replace for blanks and typo errors.
 Spacing out columns containing the rows, to look more presentable once I connect it to Tableau. 
