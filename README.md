@@ -17,7 +17,7 @@ https://public.tableau.com/views/PersonalConsumptionExpendituresVisualization/Da
 
 # Overview of project:
 
-So I downloaded the dataset from a site called Data World from the web as a .xlsx file.
+So I downloaded the dataset from a site called Data World as a .xlsx file.
 
 I opened the .xlsx file in Microsoft Excel.
 
@@ -29,7 +29,7 @@ Inside Tableau I connected my to my excel file 'Personal Consumption Expenditure
 The connection was successful. 
 
 I wanted the dashboard to show the data of the overall expenses through the years in the USA, 
-but first I needed to create sheets for the components carrying the data I want to present on the dahsboard. 
+but first I needed to create sheets for the components carrying the data in which, I wanted to present on the dahsboard. 
 
 Started off making sheets for top food groups that had the most expenses in the year 2020. Also showing food groups individual expenses by year.
 
@@ -48,7 +48,7 @@ Sheet Components used in dashboard:
 
 Afterwards I even created story tabs showing explaining each component use on the dashbaord including all-time high,
 the rise in food groups, top 5 foods and ovearall total expenses in 2020. 
-This is useful for explaination purposes to give a little walkthrough about the dashboard being presented. 
+This is useful for explaining purposes to give a little walkthrough about the dashboard being presented. 
 
 I also included using and modifiying click function animations on certain components within the dashboard to use as a sort of drill down filter.
 
