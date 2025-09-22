@@ -3,7 +3,7 @@ Tableau Dashboard
 
 
 
-This is the link view the dashbaord on tableau public:
+This is the link view the dashboard on tableau public:
 https://public.tableau.com/views/PersonalConsumptionExpendituresVisualization/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
