@@ -8,7 +8,6 @@ https://public.tableau.com/views/PersonalConsumptionExpendituresVisualization/Da
 
 
 
-
 # Tools used for this project was:
 
 - Excel
