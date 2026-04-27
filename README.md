@@ -28,11 +28,11 @@ Inside Tableau I connected my to my excel file 'Personal Consumption Expenditure
 The connection was successful. 
 
 I wanted the dashboard to show the data of the overall expenses through the years in the USA, 
-but first I needed to create sheets for the components carrying the data in which, I wanted to present on the dahsboard. 
+but first I needed to create sheets for the components carrying the data in which, I wanted to present on the dashboard. 
 
 Started off making sheets for top food groups that had the most expenses in the year 2020. Also showing food groups individual expenses by year.
 
-Once I was done creating my sheets of individual components, dragged the sheets one-by-one onto my dashbaord.
+Once I was done creating my sheets of individual components, dragged the sheets one-by-one onto my dashboard.
 
 Sheet Components used in dashboard:
 
