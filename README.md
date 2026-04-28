@@ -3,7 +3,7 @@ Tableau Dashboard
 
 <br>
 
-IMPORTANT: VIEW TABLEAU DAHSBOARD IN FULL SCREEN WHEN ON SITE VIA LINK BELOW: 
+IMPORTANT: VIEW TABLEAU DASHBOARD IN FULL SCREEN WHEN ON SITE VIA LINK BELOW: 
 
 This is the link view the dashboard on tableau public:
 https://public.tableau.com/views/PersonalConsumptionExpendituresVisualization/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
